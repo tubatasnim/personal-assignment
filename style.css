@@ -136,4 +136,27 @@ h1{
     justify-content: space-between;
     margin-top:40px;
     padding-top:40px ;
+
 }
+.five-pic{
+    height: 400px;
+    width:200px;
+    border-radius: 30px;
+    box-shadow: 20px 20px 20px 20px gray;
+}
+.sec-5{
+   
+    width:80%;
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+    margin-top:40px;
+    padding-top:40px ;
+    padding-left:140px ;
+}
+.sec-5{
+    background-image: url(images/image.png);
+    background-repeat: no-repeat;
+
+}
+
