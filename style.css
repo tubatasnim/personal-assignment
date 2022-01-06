@@ -6,21 +6,22 @@ body{
 h1{
     font-size:40px ;
     margin:2px;
+
     
     
 }
 
 
 .half-width{
-    padding:80px;
+    
     width:50%;
+    padding-left:80px;
+    padding-top:80px
+    
    
 
 }
-.headline-pera{
-    padding-top:10px;
 
-}
 .head-color{
     color: orange;
     margin-bottom: 20px;
@@ -37,6 +38,7 @@ h1{
 .first-step{
     display:flex;
 
+
 }
 .link-button{
     background-image: linear-gradient(rgb(82, 80, 80),rgb(41, 120, 134));
@@ -47,10 +49,68 @@ h1{
     font-weight:700px;
 }
 .first-pic{
-    margin-bottom:500px ;
+  
     height:400px;
     width:400px;
     border:10px solid gray;
     border-radius:500px;
+
+}
+.second-step{
+
+  
+}
+.text-decoration{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
     
 }
+#yr-color{
+    color:orange;
+}
+.ilu-pic{
+
+    height:150px;
+    width:150px;
+    padding-left:0px;
+
+
+}
+   
+.ilu-1-color{
+    background-color: rgb(245, 220, 245);
+    border-radius: 30px;
+    height:420px;
+    width:250px;
+    padding-left:70px ;
+    padding-right:10px ;
+
+}
+.ilu-2-color{
+    background-color: rgb(229, 245, 244);
+    border-radius: 30px;
+    height:420px;
+    width:250px;
+    padding-left:70px ;
+    padding-right:10px ;
+    
+
+}
+.ilu-3-color{
+    background-color: rgb(192, 240, 131);
+    border-radius: 30px;
+    height:420px;
+    width:250px;
+    padding-left:70px ;
+    padding-right:10px ;
+
+}
+.block-pera{
+    display:flex ;
+    width:80%;
+    margin:0% auto;
+    justify-content:space-around;
+
+}
+
