@@ -1,5 +1,7 @@
 body{
     font-family:'Poppins', sans-serif;
+    margin:0 auto;
+    padding:0;
 }
 
 
@@ -153,10 +155,27 @@ h1{
     margin-top:40px;
     padding-top:40px ;
     padding-left:140px ;
-}
-.sec-5{
+    padding-bottom: 80px;
     background-image: url(images/image.png);
     background-repeat: no-repeat;
 
+}
+.style{
+   background-color: black;
+   text-align: center;
+   padding-top:10px ;
+   width:100%;
+
+}
+.style h1{
+    color:white;
+    font-family: 'Yeseva One', cursive;
+}
+.style p{
+    color:white;
+
+}
+.last-color{
+    color:rgb(202, 128, 17);
 }
 
